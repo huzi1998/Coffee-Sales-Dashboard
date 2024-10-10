@@ -1,3 +1,6 @@
+
+![FCEE0C47-A7BD-4C58-948D-41327DDBB2A2_1_201_a](https://github.com/user-attachments/assets/80df6619-2c32-48f9-bc37-74223109c565)
+
 The Coffee Sales Dashboard is an Excel-based analytics project designed to provide insights into sales performance for a coffee business. Using Power Pivot for data modelling and XLOOKUP for dynamic data retrieval, the dashboard visualizes sales trends, customer information, and geographical sales distributions. It enables data-driven decisions by aggregating and filtering key metrics such as total sales, top customers, and product performance.
 
 Key Features:
